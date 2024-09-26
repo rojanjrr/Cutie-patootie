@@ -25,3 +25,15 @@
 * 🫥
 * 🥱
 * 😴
+
+## Keyboard shortcuts
+Shotcuts I ffrequently use:
+* Ctrl + C (Copy)
+* Ctrl + V (Paste)
+* Ctrl + Shift + Esc (Task manager)
+
+Shortcuts I would like to start using: 
+* Ctrl + Shift + F (Find in files)
+* Wind + D (Show desktoo)
+* Ctrl + N (Create new file)
+
