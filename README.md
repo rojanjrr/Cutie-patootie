@@ -27,7 +27,7 @@
 * 😴
 
 ## Keyboard shortcuts
-Shotcuts I ffrequently use:
+Shotcuts I frequently use:
 * Ctrl + C (Copy)
 * Ctrl + V (Paste)
 * Ctrl + Shift + Esc (Task manager)
