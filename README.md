@@ -36,3 +36,8 @@ Shortcuts I would like to start using:
 * Ctrl + Shift + F (Find in files)
 * Wind + D (Show desktoo)
 * Ctrl + N (Create new file)
+
+## Cli.md Link
+
+* [CLI commands](docs/cli.md) - The "ls" and "cat" descriptions.
+
