@@ -34,7 +34,7 @@ Shotcuts I frequently use:
 
 Shortcuts I would like to start using: 
 * Ctrl + Shift + F (Find in files)
-* Wind + D (Show desktoo)
+* Wind + D (Show desktop)
 * Ctrl + N (Create new file)
 
 ## Cli.md Link
