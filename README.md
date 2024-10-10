@@ -39,5 +39,5 @@ Shortcuts I would like to start using:
 
 ## Cli.md Link
 
-* [CLI commands](docs/cli.md) - The "ls" and "cat" descriptions.
+* [CLI commands](/cli.md) - The "ls" and "cat" descriptions.
 
